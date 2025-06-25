@@ -8,7 +8,7 @@
     <version>1.0</version>
 
     <properties>
-        <junit.version>5.13.1</junit.version>
+        <junit.version>5.13.2</junit.version>
         <junit.platform.version>1.13.2</junit.platform.version>
         <gmavenplus.version>4.2.0</gmavenplus.version>
         <groovy.version>4.0.27</groovy.version>
