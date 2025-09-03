@@ -67,6 +67,9 @@
                 <groupId>org.codehaus.gmavenplus</groupId>
                 <artifactId>gmavenplus-plugin</artifactId>
                 <version>${gmavenplus.version}</version>
+                <configuration>
+                    <targetBytecode>21</targetBytecode>
+                </configuration>
                 <executions>
                     <execution>
                         <goals>
