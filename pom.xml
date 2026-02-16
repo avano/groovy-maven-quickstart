@@ -9,7 +9,7 @@
 
     <properties>
         <junit.version>6.0.3</junit.version>
-        <junit.platform.version>6.0.2</junit.platform.version>
+        <junit.platform.version>6.0.3</junit.platform.version>
         <gmavenplus.version>4.3.1</gmavenplus.version>
         <groovy.version>5.0.4</groovy.version>
         <surefire.version>3.5.4</surefire.version>
