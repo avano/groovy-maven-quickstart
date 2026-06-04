@@ -10,7 +10,7 @@
     <properties>
         <junit.version>6.1.0</junit.version>
         <junit.platform.version>6.1.0</junit.platform.version>
-        <gmavenplus.version>4.3.1</gmavenplus.version>
+        <gmavenplus.version>5.0.0</gmavenplus.version>
         <groovy.version>5.0.6</groovy.version>
         <surefire.version>3.5.6</surefire.version>
     </properties>
