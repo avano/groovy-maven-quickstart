@@ -10,7 +10,7 @@
     <properties>
         <junit.version>6.1.2</junit.version>
 
-        <junit.platform.version>6.1.1</junit.platform.version>
+        <junit.platform.version>6.1.2</junit.platform.version>
 
         <gmavenplus.version>5.0.0</gmavenplus.version>
 
