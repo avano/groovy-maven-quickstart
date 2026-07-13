@@ -12,7 +12,7 @@
 
         <junit.platform.version>6.1.2</junit.platform.version>
 
-        <gmavenplus.version>5.0.0</gmavenplus.version>
+        <gmavenplus.version>5.1.0</gmavenplus.version>
 
         <groovy.version>5.0.7</groovy.version>
 
